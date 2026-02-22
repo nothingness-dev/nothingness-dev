@@ -1,20 +1,55 @@
-# Hi, I'm nothingness-dev
+# Roham
 
-## About Me
-I'm a passionate developer skilled in Front End development, Python programming, and Web Scraping.  
-I enjoy building efficient and scalable web applications and automating tasks to save time.
-
-## Skills
-- Front End: HTML, CSS, JavaScript, React  
-- Programming Languages: Python, JavaScript
-- Tools & Technologies: Selenium, BeautifulSoup, Requests  
-- Other: Git, REST APIs, Automation
-
-## Contact Me
-- Email: nothingness.dev@gmail.com
-- LinkedIn: soon...
-- Telegram: https://t.me/BetterCallMeRoham
+### Computer Engineering Student  
+**Iran University of Science and Technology**
 
 ---
 
-Thanks for stopping by! Feel free to check out my projects or reach out if you want to collaborate or have questions.
+## About Me
+
+I am a Computer Engineering student with a primary focus on backend systems and API design.  
+My main area of interest is building scalable, well-structured backend services using FastAPI.
+
+In parallel, I am developing a strong foundation in Machine Learning, with emphasis on understanding the mathematical principles behind algorithms rather than relying solely on high-level abstractions.
+
+---
+
+## Core Focus
+
+- RESTful API Design  
+- Backend Architecture  
+- Authentication & Authorization (JWT)  
+- Database Design & ORM  
+- Clean Code & Maintainability  
+- Machine Learning Fundamentals  
+
+---
+
+## Tech Stack
+
+### Backend
+`Python` • `FastAPI` • `SQLAlchemy`
+
+### Databases
+`PostgreSQL` • `SQLite`
+
+### Data & Machine Learning
+`NumPy` • `Pandas` • `matplotlib`
+
+### Tools & Environment
+`Git` • `Docker` (currently improving proficiency)
+
+---
+
+## Current Direction
+
+- Designing production-oriented APIs  
+- Building modular and testable backend systems  
+- Strengthening mathematical foundations for ML  
+- Expanding system design knowledge  
+
+---
+
+## Professional Objective
+
+To become a backend engineer capable of building reliable, scalable systems while maintaining a rigorous understanding of the mathematical foundations behind intelligent software.
