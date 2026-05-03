@@ -11,11 +11,11 @@
 
 ## About Me
 
-- Computer Engineering student
+- Computer Engineering student at IUST
 - Building web applications with Django and FastAPI
 - Exploring machine learning and AI systems
 - Interested in how models actually work internally
-- Focused on backend systems and practical software
+- Focused on machine learning
 
 ---
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,js,html,css,mysql,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,mysql,git,github,vscode" />
 
 </div>
 
