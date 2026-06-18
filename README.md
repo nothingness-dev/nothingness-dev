@@ -52,6 +52,12 @@ Multiplayer game project built with Node.js.
 
 ---
 
+### InsightFlow
+
+Modern organizational survey and employee evaluation platform with anonymous feedback, rankings, analytics, and Docker deployment.
+
+**Tech:** React + TypeScript, Django REST Framework
+
 ## Currently Learning
 
 - Distributed systems & caching strategies  
